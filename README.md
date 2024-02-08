@@ -21,7 +21,7 @@ El taller estará finalizado una vez suban su página a internet y agregue a con
 ## GARDEN
 ![Screenshot 2024-02-08 000107](https://github.com/DSAW-2024-1/intro-to-github-pages-Tw3kda/assets/148833934/039671e7-dc52-4f01-a984-a740192f82c3)
 
-## FLUKEOUT 
+## DINNER 
 ![Screenshot 2024-02-07 091155](https://github.com/DSAW-2024-1/intro-to-github-pages-Tw3kda/assets/148833934/478e8028-0bdd-459a-bd08-ca4ddc3577c7)
 
 
