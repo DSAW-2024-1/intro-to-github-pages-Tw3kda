@@ -13,3 +13,16 @@ Para esto es necesario que suban los cambios de su repositorio anterior a este r
 ## Sitio web Desplegado
 El taller estará finalizado una vez suban su página a internet y agregue a continuación el link:
 - **Link del sitio web desplegado:** (https://dsaw-2024-1.github.io/intro-to-github-pages-Tw3kda/)
+
+# IMAGENES JUEGOS
+##   FROGGY 
+![Screenshot 2024-02-07 103025](https://github.com/DSAW-2024-1/intro-to-github-pages-Tw3kda/assets/148833934/1dc2229b-37b3-465a-8020-224e32eb6ee9)
+
+## GARDEN
+![Screenshot 2024-02-08 000107](https://github.com/DSAW-2024-1/intro-to-github-pages-Tw3kda/assets/148833934/039671e7-dc52-4f01-a984-a740192f82c3)
+
+## FLUKEOUT 
+![Screenshot 2024-02-07 091155](https://github.com/DSAW-2024-1/intro-to-github-pages-Tw3kda/assets/148833934/478e8028-0bdd-459a-bd08-ca4ddc3577c7)
+
+
+
